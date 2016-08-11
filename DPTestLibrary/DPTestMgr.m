@@ -8,7 +8,7 @@
 
 #import "DPTestMgr.h"
 
-@import MBProgressHUD;
+#import <MBProgressHUD/MBProgressHUD.h>
 
 @implementation DPTestMgr
 
